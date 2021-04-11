@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javaFX"/>
+	<classpathentry kind="lib" path="C:/Users/JJBOOM/OneDrive/Douglas/Winter 2021/2175 Adv Integrated Software Dev/W8/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JJBOOM/OneDrive/Douglas/Winter 2021/2175 Adv Integrated Software Dev/W8/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JJBOOM/OneDrive/Douglas/Winter 2021/2175 Adv Integrated Software Dev/W8/hsqldb-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JJBOOM/OneDrive/Douglas/Winter 2021/2175 Adv Integrated Software Dev/W8/jackcess-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JJBOOM/OneDrive/Douglas/Winter 2021/2175 Adv Integrated Software Dev/W8/ucanaccess-4.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
